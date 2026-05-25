@@ -1,6 +1,6 @@
 # Prosociality Appraisal Paper Submission
 
-This repository contains the consolidated source code required to reproduce the core results of our prosociality appraisal framework, stripped of model weights and heavy data files for a clean submission.
+This repository contains the consolidated source code required to reproduce the core results of the submission "A Cognitive Analysis of Prosocial Safety in Human-LLM Conversations"
 
 ## Repository Structure
 
