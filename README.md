@@ -5,7 +5,7 @@ This repository contains the consolidated source code required to reproduce the 
 ## Repository Structure
 
 - **`appraise_plm/`**
-  The core Appraise-ATN model implementation. Contains the architecture (`model.py`), loss functions and utilities (`utils.py`), and the core training loop (`train.py`).
+  The core Appraise-PLM model implementation. Contains the architecture (`model.py`), loss functions and utilities (`utils.py`), and the core training loop (`train.py`).
   
 - **`train_appraise_plm.py`**
   The primary entry point to train the model. This is a thin wrapper that routes execution directly to the core PLM trainer.
